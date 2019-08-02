@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/liujianji3/liujianji3/_apis/build/status/JohnGee96.pipelines-java?branchName=master)](https://dev.azure.com/liujianji3/liujianji3/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
